@@ -1,5 +1,9 @@
 <h1 align="center">Hi there, I'm Aditya Alfito 👋</h1>
 <p align="center">
+  <img src="https://media.giphy.com/media/I3eVhMpz8hnsI/giphy.gif" width="300" alt="Wait a minute... Who are you?" />
+</p>
+
+<p align="center">
   A dedicated Web Developer who specializes in building efficient and reliable websites for small to medium-scale projects.
 </p>
 
@@ -22,6 +26,7 @@
 ![Laravel](https://img.shields.io/badge/-Laravel-F55247?style=flat&logo=laravel&logoColor=white)
 ![Livewire](https://img.shields.io/badge/-Livewire-4E56A6?style=flat)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
 ---
 
 ### 📈 GitHub Stats
@@ -34,9 +39,8 @@
 ### 📫 Get in Touch
 - 🌐 Website: [yourwebsite.com](https://yourwebsite.com)
 - 💼 LinkedIn: [@Aditya Alfitodinova](https://www.linkedin.com/in/aditya-alfitodinova-3601332ab/)
-- 🐦 Instagram: [@adtorin4348](https://www.instagram.com/adtorin4348/)
+- 📸 Instagram: [@adtorin4348](https://www.instagram.com/adtorin4348/)
 
 ---
 
 > “Crafting clean code and great UX, one commit at a time.”
-
