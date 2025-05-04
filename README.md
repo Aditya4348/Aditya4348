@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Aditya Alfito 👋</h1>
 <p align="center">
-  <img src="https://media.giphy.com/media/I3eVhMpz8hnsI/giphy.gif" width="300" alt="Wait a minute... Who are you?" />
+  <img src="[https://media.giphy.com/media/I3eVhMpz8hnsI/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb24ybmxza3YxY2thNXgyY29uMzdmMmhtMGk0bnJ5ZXUxNTd3eDZxcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fnuSiwXMTV3zmYDf6k/giphy.gif)" width="300" alt="Wait a minute... Who are you?" />
 </p>
 
 <p align="center">
