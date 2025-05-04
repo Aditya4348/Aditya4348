@@ -26,7 +26,7 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?Aditya4348=Aditya4348&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aditya4348&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
@@ -34,7 +34,7 @@
 ### 📫 Get in Touch
 - 🌐 Website: [yourwebsite.com](https://yourwebsite.com)
 - 💼 LinkedIn: ([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/aditya-alfitodinova-3601332ab/))
-- 🐦 Instagram: [[@yourhandle]([https://twitter.com/yourhandle](https://www.instagram.com/adtorin4348/))]
+- 🐦 Instagram: [@adtorin4348](https://www.instagram.com/adtorin4348/)
 
 ---
 
