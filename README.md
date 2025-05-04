@@ -33,7 +33,7 @@
 
 ### 📫 Get in Touch
 - 🌐 Website: [yourwebsite.com](https://yourwebsite.com)
-- 💼 LinkedIn: ([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/aditya-alfitodinova-3601332ab/))
+- 💼 LinkedIn: [@Aditya Alfitodinova](https://www.linkedin.com/in/aditya-alfitodinova-3601332ab/)
 - 🐦 Instagram: [@adtorin4348](https://www.instagram.com/adtorin4348/)
 
 ---
